@@ -1,6 +1,6 @@
 # Third-party notices
 
-Mosslight declares no runtime package dependencies. Its artwork, bitmap font, music, sound effects, writing, and game logic were created for this project. The following packages support development, compilation, and verification. The project lockfile records exact dependency resolutions.
+Mosslight declares no runtime package dependencies. Its artwork, bitmap font, music, sound effects, writing, and game logic were created for this project. Vesper’s original concept and sprite atlases were created with OpenAI’s built-in image generation tool; source images and prompts are retained in the project. The following packages support development, compilation, and verification. The project lockfile records exact dependency resolutions.
 
 This inventory was read from the installed package metadata for the initial build. Optional platform packages vary by operating system; their licenses remain in the package supplied by npm. Each installed tool retains its complete license and bundled dependency notices in its own package. The license of the original Mosslight material is a separate project-owner decision.
 
